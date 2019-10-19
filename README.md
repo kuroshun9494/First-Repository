@@ -4,6 +4,6 @@
 ---
 
 ##メンバー
-*shutna
+*shu
 *aihara
 
